@@ -86,3 +86,12 @@ Token: MXNB
 ---
 
 🤝 Proyecto desarrollado para una **Hackatón Web3**
+
+
+
+Contratos desplegados: 
+
+Scroll Address Contract https://sepolia.scrollscan.com/address/0xaD19700cE016338dDff9A86cc0D5AAaB1c2Ee75d
+
+Arbitrum Address Contract https://sepolia.arbiscan.io/address/0x14f47731e624fc1fa0618b5117f3d032f06db70e
+
